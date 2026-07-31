@@ -1,0 +1,126 @@
+LICENSE.txt
+
+Vocentra 1.0
+Technische Version: 1.0.0
+
+Copyright © 2026 IT-Beratung Scholz
+Dipl.-Phys. Mathias Scholz
+
+Alle Rechte vorbehalten.
+
+------------------------------------------------------------------------
+
+1. Geltungsbereich
+
+Diese Lizenzbedingungen regeln die Nutzung der Software Vocentra
+einschließlich aller Bestandteile, Programmdateien, Dokumentationen,
+Installationsdateien und Aktualisierungen.
+
+Mit der Installation oder Nutzung der Software erkennt der Anwender
+diese Lizenzbedingungen an.
+
+------------------------------------------------------------------------
+
+2. Eigentum und Urheberrecht
+
+Vocentra ist urheberrechtlich geschützt.
+
+Sämtliche Rechte an der Software verbleiben ausschließlich beim
+Hersteller. Mit dem Erwerb einer Lizenz werden ausschließlich
+Nutzungsrechte eingeräumt; Eigentumsrechte an der Software werden nicht
+übertragen.
+
+------------------------------------------------------------------------
+
+3. Testphase
+
+Nach der Installation kann Vocentra für einen Zeitraum von 14 Tagen zu
+Testzwecken genutzt werden.
+
+Nach Ablauf dieses Zeitraums ist für die weitere Nutzung eine gültige
+Lizenz erforderlich.
+
+------------------------------------------------------------------------
+
+4. Lizenzmodelle
+
+Zur Version 1.0 werden folgende Lizenzmodelle angeboten:
+
+-   Einzelplatz-Lizenz
+-   Firmen-Lizenz für bis zu fünf Arbeitsplätze
+
+Der genaue Lizenzumfang ergibt sich aus dem jeweiligen Kaufvertrag oder
+der Auftragsbestätigung.
+
+------------------------------------------------------------------------
+
+5. Zulässige Nutzung
+
+Der Lizenznehmer darf die Software ausschließlich im Rahmen der
+erworbenen Lizenz verwenden.
+
+Eine Weitergabe der Lizenz an Dritte ist ohne ausdrückliche schriftliche
+Zustimmung des Herstellers nicht zulässig.
+
+------------------------------------------------------------------------
+
+6. Unzulässige Handlungen
+
+Soweit gesetzlich zulässig, ist es insbesondere untersagt,
+
+-   die Software zu vervielfältigen, außer für zulässige
+    Sicherungskopien,
+-   die Software zu vermieten, zu verleihen oder weiterzuverkaufen,
+-   die Software zu verändern oder daraus abgeleitete Werke zu
+    erstellen,
+-   Schutzmechanismen oder Lizenzfunktionen zu umgehen,
+-   die Software zu dekompilieren oder zurückzuentwickeln, soweit dies
+    nicht zwingend gesetzlich erlaubt ist.
+
+------------------------------------------------------------------------
+
+7. Drittanbieter
+
+Vocentra kann mit Diensten Dritter (z. B. Ollama, Gemini oder Groq)
+zusammenarbeiten.
+
+Für diese Dienste gelten ausschließlich deren eigene Nutzungsbedingungen
+und Datenschutzbestimmungen.
+
+------------------------------------------------------------------------
+
+8. Gewährleistung
+
+Die Software wird nach bestem Wissen entwickelt und getestet.
+
+Eine Gewähr für die ununterbrochene oder fehlerfreie Funktion wird im
+gesetzlich zulässigen Umfang nicht übernommen.
+
+------------------------------------------------------------------------
+
+9. Haftung
+
+Der Hersteller haftet nach den gesetzlichen Vorschriften bei Vorsatz und
+grober Fahrlässigkeit.
+
+Im Übrigen ist die Haftung – soweit gesetzlich zulässig – ausgeschlossen
+oder auf vorhersehbare Schäden begrenzt.
+
+Zwingende gesetzliche Ansprüche bleiben unberührt.
+
+------------------------------------------------------------------------
+
+10. Schlussbestimmungen
+
+Es gilt das Recht der Bundesrepublik Deutschland.
+
+Sollten einzelne Bestimmungen dieser Lizenz unwirksam sein oder werden,
+bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
+------------------------------------------------------------------------
+
+IT-Beratung Scholz
+Dipl.-Phys. Mathias Scholz
+
+E-Mail: it-beratung-scholz@t-online.de
+Website: https://vocentra.carrd.co
